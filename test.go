@@ -31,4 +31,6 @@ func featureC3() {
 	log.Println("kkklklklk4")
 	log.Println("kkklklklk4")
 	log.Println("kkklklklk4")
+	log.Println("kkklklklk4")
+	log.Println("kkklklklk4")
 }
