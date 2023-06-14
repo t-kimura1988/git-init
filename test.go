@@ -22,3 +22,13 @@ func featureA() {
 	log.Println("kkklklklk4")
 	log.Println("kkklklklk4")
 }
+
+func featureC4() {
+	log.Println("kkklklklk")
+	log.Println("kkklklklk3")
+	log.Println("kkklklklk4")
+	log.Println("kkklklklk4")
+	log.Println("kkklklklk4")
+	log.Println("kkklklklk4")
+	log.Println("kkklklklk4")
+}
