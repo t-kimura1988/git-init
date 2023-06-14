@@ -1,5 +1,7 @@
 package git_init
 
-func a1() {
+import "log"
 
+func a1() {
+	log.Println("pppp")
 }
